@@ -30,3 +30,4 @@ Investigate how composite index ordering affects PostgreSQL query performance.
 * Bitmap Index Scan
 * Sequential Scan
 * Left-Most Prefix Rule
+Assignment submitted via pull request.
